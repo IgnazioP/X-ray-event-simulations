@@ -1,2 +1,2 @@
 # X-ray-event-simulations
-A code to produce simulated events from X-ray exposure maps
+A R script to simulate background X-ray events from X-ray exposure maps
